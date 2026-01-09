@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Round ZERO ～BLADE BRAVE",
+  "base_artist": "相川七瀬",
+  "createdAt": "2026-01-09T06:51:44.137987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Round ZERO〜BLADE BRAVE",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/01_Round_ZERO〜BLADE_BRAVE_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Round ZERO 〜BLADE BRAVE",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/02_Round_ZERO_〜BLADE_BRAVE_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Round ZERO 〜BLADE BRAVE",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/03_Round_ZERO_〜BLADE_BRAVE_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Round ZERO 〜BLADE BRAVE",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/04_Round_ZERO_〜BLADE_BRAVE_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Round ZERO ～BLADE BRAVE（『仮面ライダー剣』主題歌）",
+      "artist": "相川七瀬",
+      "has_synced": false,
+      "path": "select/05_Round_ZERO_~BLADE_BRAVE(『仮面ライダー剣』主題歌)_相川七瀬.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Round ZERO 〜BLADE BRAVE",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/06_Round_ZERO_〜BLADE_BRAVE_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Round ZERO 〜BLADE BRAVE - TV size",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/07_Round_ZERO_〜BLADE_BRAVE_-_TV_size_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Round ZERO～BLADE BRAVE",
+      "artist": "相川 七瀬",
+      "has_synced": false,
+      "path": "select/pl_01_Round_ZERO~BLADE_BRAVE_相川_七瀬.txt"
+    }
+  ]
+}
